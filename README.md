@@ -1,2 +1,3 @@
 # Attention generation
-Generating attention maps from resnet50 and densenet using ACDC and EMIDEC dataset
+Generating gradient-based attention maps from 3 different DL networks:
+resnet50, densenet and Variational autoencoders (VAEs) using ACDC and EMIDEC dataset.
